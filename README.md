@@ -17,5 +17,5 @@ aplicações web com TypeScript, Node.js e React.
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([SEU_LINK_LINKEDIN](https://www.linkedin.com/in/luiz-guilherme-bastos-530319227/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([SEU_LINK_LINKEDIN](https://www.linkedin.com/in/luiz-guilherme-bastos-530319227/)](https://www.linkedin.com/in/luiz-guilherme-bastos-530319227/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermecorsino21@gmail.com)
