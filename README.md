@@ -13,7 +13,11 @@ aplicações web com TypeScript, Node.js e React.
 
 ## 🚀 Projetos em destaque
 
-> Portfólio em construção — projetos sendo adicionados
+### [api-express](https://github.com/guilherme-corsino/api-express)
+API REST com Node.js, Express e TypeScript. Arquitetura em camadas, validação com Zod, PostgreSQL + Prisma e Docker.
+
+### [ts-utils](https://github.com/guilherme-corsino/ts-utils)
+Biblioteca utilitária em TypeScript com Generics e cobertura de testes com Jest.
 
 ## 📫 Contato
 
