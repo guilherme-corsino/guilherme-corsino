@@ -1,20 +1,24 @@
 # Guilherme Corsino
 
-Fullstack Developer com 6+ anos de experiência construindo
-aplicações web com TypeScript, Node.js e React.
+Desenvolvedor Web focado em JavaScript, TypeScript, Node.js e React.
+Construindo projetos reais com boas práticas e arquitetura profissional.
 
 ## 🛠️ Tech Stack
 
 **Frontend:** React · Next.js · TypeScript · Tailwind CSS  
-**Backend:** Node.js · Express · TypeScript · REST APIs  
-**Banco de dados:** PostgreSQL · MySQL · MongoDB  
-**DevOps:** Docker · AWS (EC2, S3) · CI/CD  
-**Ferramentas:** Prisma · Git · Jest  
+**Backend:** Node.js · Express · TypeScript · REST APIs · JWT  
+**Banco de dados:** PostgreSQL · Prisma ORM · MySQL  
+**DevOps:** Docker · Railway · Git  
+**Ferramentas:** Zod · Swagger · Jest  
 
 ## 🚀 Projetos em destaque
 
+### [auth-api](https://github.com/guilherme-corsino/auth-api)
+API de autenticação completa com JWT, refresh token em cookie HttpOnly, roles (ADMIN/USER), validação com Zod, Swagger e deploy no Railway.  
+🌐 [Ver documentação ao vivo](https://zippy-enchantment-production-dce7.up.railway.app/docs)
+
 ### [api-express](https://github.com/guilherme-corsino/api-express)
-API REST com Node.js, Express e TypeScript. Arquitetura em camadas, validação com Zod, PostgreSQL + Prisma e Docker.
+API REST com CRUD completo, arquitetura em camadas (Routes → Controllers → Services), validação com Zod e PostgreSQL + Prisma.
 
 ### [ts-utils](https://github.com/guilherme-corsino/ts-utils)
 Biblioteca utilitária em TypeScript com Generics e cobertura de testes com Jest.
