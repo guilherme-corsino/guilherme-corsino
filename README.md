@@ -1,26 +1,26 @@
-# Guilherme Corsino
+Guilherme Corsino
 
-Desenvolvedor Web focado em JavaScript, TypeScript, Node.js e React.
-Construindo projetos reais com boas práticas e arquitetura profissional.
+Desenvolvedor Full Stack focado em JavaScript, TypeScript, Node.js, NestJS e React. Construindo projetos reais com boas práticas e arquitetura profissional.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS  
-**Backend:** Node.js · Express · TypeScript · REST APIs · JWT  
-**Banco de dados:** PostgreSQL · Prisma ORM · MySQL  
-**DevOps:** Docker · Railway · Git  
-**Ferramentas:** Zod · Swagger · Jest  
+Frontend: React · Next.js · TypeScript · Tailwind CSS · Context API Backend: Node.js · NestJS · Express · REST APIs · JWT Banco de dados: PostgreSQL · Prisma ORM · Multi-tenancy DevOps: Docker · Railway · Git Ferramentas: Zod · class-validator · Swagger
 
-## 🚀 Projetos em destaque
+🚀 Projetos em destaque
+promo-vendas-api + promo-vendas-web
 
-### [auth-api](https://github.com/guilherme-corsino/auth-api)
-API de autenticação completa com JWT, refresh token em cookie HttpOnly, roles (ADMIN/USER), validação com Zod, Swagger e deploy no Railway.  
-🌐 [Ver documentação ao vivo](https://zippy-enchantment-production-dce7.up.railway.app/docs)
+Sistema completo de gestão de estoque e vendas para negócio real de revenda. Backend em NestJS com multi-tenancy (isolamento de dados por usuário), autenticação JWT, PostgreSQL + Prisma, dashboard financeiro com agregação de dados via SQL e documentação Swagger. Frontend em Next.js com Context API para gerenciamento de estado de autenticação.
 
-### [api-express](https://github.com/guilherme-corsino/api-express)
+auth-api
+
+API de autenticação completa com JWT, refresh token em cookie HttpOnly, roles (ADMIN/USER), validação com Zod, Swagger e deploy no Railway. 🌐 Ver documentação ao vivo
+
+api-express
+
 API REST com CRUD completo, arquitetura em camadas (Routes → Controllers → Services), validação com Zod e PostgreSQL + Prisma.
 
-### [ts-utils](https://github.com/guilherme-corsino/ts-utils)
+ts-utils
+
 Biblioteca utilitária em TypeScript com Generics e cobertura de testes com Jest.
 
 ## 📫 Contato
